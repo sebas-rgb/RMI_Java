@@ -1,6 +1,6 @@
-# 📦 RMI Java - Sistema Distribuido
+#  RMI Java - Sistema Distribuido
 
-## 📌 Descripción
+##  Descripción
 
 Este proyecto implementa un sistema distribuido utilizando **Java RMI (Remote Method Invocation)**, permitiendo la comunicación entre un cliente y un servidor mediante la invocación de métodos remotos.
 
@@ -8,7 +8,7 @@ El sistema está basado en una arquitectura cliente-servidor, donde el servidor 
 
 ---
 
-## 🧠 Objetivo del Proyecto
+##  Objetivo del Proyecto
 
 Simular un sistema distribuido en Java que permita:
 
@@ -19,7 +19,7 @@ Simular un sistema distribuido en Java que permita:
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - Java
 - Java RMI
@@ -29,7 +29,7 @@ Simular un sistema distribuido en Java que permita:
 
 ---
 
-## 🏗️ Arquitectura del Sistema
+##  Arquitectura del Sistema
 
 El sistema se compone de tres partes principales:
 
@@ -47,7 +47,7 @@ Define los métodos que pueden ser invocados remotamente.
 
 ---
 
-## 🔄 Flujo de Funcionamiento
+##  Flujo de Funcionamiento
 
 1. Se inicia el `rmiregistry`  
 2. Se ejecuta el servidor y registra el objeto  
