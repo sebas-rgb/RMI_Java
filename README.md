@@ -59,12 +59,16 @@ Define los métodos que pueden ser invocados remotamente.
 
 ##  Estructura del Proyecto
 RMI_Java/
+
 │── cliente/
+
 │── servidor/
+
 │── interfaz/
+
 │── README.md
 
-##Limitaciones
+## Limitaciones
 
 * Solo funciona en entornos Java
 * Dependencia de la JVM
