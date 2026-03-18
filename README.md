@@ -57,4 +57,22 @@ Define los métodos que pueden ser invocados remotamente.
 
 ---
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
+RMI_Java/
+│── cliente/
+│── servidor/
+│── interfaz/
+│── README.md
+
+##Limitaciones
+
+* Solo funciona en entornos Java
+* Dependencia de la JVM
+* No es multi-lenguaje
+
+## Podibles mejoras
+- Interfaz gráfica (Swing o JavaFX)
+- Autenticación de usuarios
+- Conexión a base de datos
+- Manejo de múltiples clientes
+- Despliegue en red real
